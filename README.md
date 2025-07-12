@@ -6,3 +6,9 @@
 
 ```bash
 python main.py
+```
+
+## Как тестировать
+```bash
+pip install -r requirements.txt
+pytest
